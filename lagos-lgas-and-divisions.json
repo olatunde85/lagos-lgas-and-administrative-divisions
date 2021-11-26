@@ -1,0 +1,22 @@
+[
+  { "name": "Agege", "division": "Ikeja", "id" 1 },
+  { "name": "Ajeromi-Ifelodun", "division": "Badagry", "id": 2 },
+  { "name": "Alimosho", "division": "Ikeja", "id": 3 },
+  { "name": "Amuwo-Odofin", "division": "Badagry", "id": 4 },
+  { "name": "Apapa", "division": "Lagos(Eko)", "id": 5 },
+  { "name": "Badagry", "division": "Badagry", "id": 6 },
+  { "name": "Epe", "division": "Epe", "id": 7 },
+  { "name": "Eti Osa", "division": "Lagos(Eko)", "id": 8 },
+  { "name": "Ibeju-Lekki", "id": 9 },
+  { "name": "Ifako-Ijaiye", "division": "Ikeja", "id": 10 },
+  { "name": "Ikeja", "division": "Ikeja", "id": 11 },
+  { "name": "Ikorodu", "division": "Ikorodu", "id": 12 },
+  { "name": "Kosofe", "division": "Ikeja", "id": 13 },
+  { "name": "Lagos Island", "division": "Lagos(Eko)", "id": 14 },
+  { "name": "Lagos Mainland", "division": "Lagos(Eko)", "id": 15 },
+  { "name": "Mushin", "division": "Ikeja", "id": 16 },
+  { "name": "Ojo", "division": "Badagry", "id": 17 },
+  { "name": "Oshodi-Isolo", "division": "Ikeja", "id": 18 },
+  { "name": "Shomolu", "division": "Ikeja", "id": 19 },
+  { "name": "Surulere", "division": "Lagos(Eko)", "id": 20 }
+]
